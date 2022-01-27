@@ -7,8 +7,11 @@ yarn add humphrey-pages --dev
 
 ## 命令
 ```shell
+# 清除临时文件
 humphrey-pages clean
+# 构建项目
 humphrey-pages build
+# 启动测试服务器
 humphrey-pages develop
 ```
 
